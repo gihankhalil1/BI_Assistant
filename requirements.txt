@@ -1,0 +1,7 @@
+langchain==0.0.324  # LangChain library for building AI systems
+langchain-google-genai==0.0.5  # Google Gemini integration with LangChain
+langchain-community==0.1.2  # Community utilities for LangChain
+langchain-core==0.0.10  # Core functionalities of LangChain
+streamlit==1.26.0  # Streamlit for the web interface
+python-dotenv==1.0.0  # To manage environment variables
+mysql-connector-python==8.0.34  # MySQL connector
